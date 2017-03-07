@@ -1,0 +1,23 @@
+{
+	"dinosaurs": [
+		{
+			"name": "Rex",
+			"type": "T-Rex",
+			"food": "smaller dinosaurs",
+			"url": "http://vignette3.wikia.nocookie.net/dinosaurs/images/0/00/Outrun-t-rex-orig.jpg/revision/latest?cb=20150213222749"
+		},
+		{
+			"name": "Steggie",
+			"type": "Stegosaurus",
+			"food": "chalk",
+			"url": "http://vignette1.wikia.nocookie.net/dino/images/4/4c/Stegosaurus-detail-header.png/revision/latest?cb=20150407211604"
+		},
+		{
+			"name": "Victor",
+			"type": "Velociraptor",
+			"food": "snickers",
+			"url": "http://cdn.inquisitr.com/wp-content/uploads/2014/06/Velociraptor-Prank-Has-Dinosaur-Roaming-In-An-Office-Video.jpg"
+		}
+	]
+}
+
